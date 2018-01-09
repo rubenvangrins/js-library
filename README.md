@@ -1,6 +1,5 @@
 # js-library
 
-
 ## Korte Inhoud
 Dit is mijn eerste Library, hierin probeer ik mijn kennis steeds te vergroten.
 
@@ -8,4 +7,4 @@ Dit is mijn eerste Library, hierin probeer ik mijn kennis steeds te vergroten.
 Het is mogelijk om een blok element te vergroten en te verkleinen.
 
 ## Demo
-Bekijk mijn demo [demo](http://www.rubenvangrinsven.com)
+Bekijk mijn [demo](http://i341402.iris.fhict.nl/suprise-factory/)
