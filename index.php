@@ -11,9 +11,12 @@
     <div id="groter" style="border: 1px solid black; width: 50px; height: 50px;">
         test-blok
     </div>
-    <button onclick="Library.Add('#groter', 400, 600)">
-        test klik
+    <button onclick="Library.Groter('#groter', 400, 600)">
+        Groter
     </button>
+    <button onclick="Library.Groter('#groter', 50, 50)">
+        Kleiner
+    </button>     
     <script>
         Library.Alert();
     </script>
