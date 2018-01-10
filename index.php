@@ -16,9 +16,9 @@
     </button>
     <button onclick="Library.Groter('#groter', 50, 50)">
         Kleiner
-    </button>     
-    <script>
-        Library.Alert();
-    </script>
+    </button>  
+    <button onclick="Library.Kleur('#groter', 'red')">
+        verander kleur
+    </button>
 </body>
 </html>
